@@ -7,4 +7,4 @@ const notas = [10, 8.75, 9, 7, 9.65]
 
 media = (notas[0] + notas[1] + notas[2] + notas[3]) / notas.length;
 
-console.log(media)
+console.log(`Sua média final foi: ${media}`)
