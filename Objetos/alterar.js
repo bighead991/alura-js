@@ -7,6 +7,8 @@ const pessoa = {
 //ADICIONA UM NOVO VALOR AO OBJETO
 pessoa.telefone = "(11) 988776655"
 
+//DELETANDO VALOR DO OBJETO
 delete pessoa.telefone
+delete pessoa["telefone"]
 
 console.log(pessoa)
