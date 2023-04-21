@@ -13,4 +13,6 @@ cliente.enderecos = [
     },
 ];
 
+
+
 console.log(cliente.enderecos)
